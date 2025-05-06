@@ -15,7 +15,7 @@ This task involves building a machine learning model to detect fake news article
 ## Repository:
 The code for this task can be found in the `fake-news-detector` repository. You can access the repository at the following link:
 
-[Fake News Detector Repository](https://github.com/MhamedHalloub/fake-news-detector)
+[Fake News Detector Repository](https://github.com/MhamedHalloub/fake-news-detection)
 
 ## Steps:
 1. Download the dataset files (`fake.csv` and `true.csv`).
